@@ -14,10 +14,10 @@ We created a recieveMessage method, the message will be pulled out of the queue.
 We created a lambda fuction that recieve the message out of the queue as long as a message is in the queue.
 
 ## Screen Shot
-![](images/whiteboard3.jpg)
+![](image.png)
 
 # Collaborators
-Peter Lee
+Peter Lee,
 Kevin Coutour
 
 # Resources
